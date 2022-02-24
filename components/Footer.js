@@ -1,33 +1,33 @@
 const Footer = () => {
   return (
-    <div class="container">
-    <div class="row">
-        <div class="col-sm-5 copyright">
+    <div className="container">
+    <div className="row">
+        <div className="col-sm-5 copyright">
             <p>
                 Copyright &copy; 2022 Mik McLean
             </p>
         </div>
-        <div class="col-sm-2 top">
+        <div className="col-sm-2 top">
             <span id="to-top">
-                <i class="fa fa-chevron-up" aria-hidden="true"></i>
+                <i className="fa fa-chevron-up" aria-hidden="true"></i>
             </span>
         </div>
-        <div class="col-sm-5 social">
+        <div className="col-sm-5 social">
             <ul>
                 <li>
-                    <a href="https://github.com/" target="_blank" rel="noreferrer"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    <a href="https://github.com/" target="_blank" rel="noreferrer"><i className="fa fa-github" aria-hidden="true"></i></a>
                 </li>
                 <li>
-                    <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+                    <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><i className="fa fa-stack-overflow" aria-hidden="true"></i></a>
                 </li>
                 <li>
-                    <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><i className="fa fa-facebook" aria-hidden="true"></i></a>
                 </li>
                 <li>
-                    <a href="https://twitter.com/" target="_blank" rel="noreferrer"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/" target="_blank" rel="noreferrer"><i className="fa fa-twitter" aria-hidden="true"></i></a>
                 </li>
                 <li>
-                    <a href="https://plus.google.com/" target="_blank" rel="noreferrer"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                    <a href="https://plus.google.com/" target="_blank" rel="noreferrer"><i className="fa fa-google-plus" aria-hidden="true"></i></a>
                 </li>
             </ul>
         </div>
