@@ -14,7 +14,7 @@ export default function Home() {
         <script type="text/javascript" src="../js/scripts.min.js"></script>
         <link rel="icon" href="/favicon.ico" />
         <link
-          href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900"
+          href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=optional"
           rel="stylesheet"
         />
         <link
