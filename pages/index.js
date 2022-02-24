@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from 'next/image'
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import styles from './libs/font-awesome/css/font-awesome.min.css'
+import styles from './public\libs\font-awesome\css\font-awesome.css'
 import Script from 'next/script'
 
 export default function Home() {
